@@ -2,7 +2,7 @@
 
 We've been working on Keybase.io for a little over half a year now, and we
 would like it succeed, but we're a little bit nervous. The more successful we
-are, the more valuable target we become.
+are, the more valuable of a target we become.
 
 Here are the attacks we are most concerned about:
 
